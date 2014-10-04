@@ -15,6 +15,7 @@
 		981B97D819CD82C000EA09FE /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 981B97D719CD82C000EA09FE /* Images.xcassets */; };
 		981B97DB19CD82C000EA09FE /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 981B97D919CD82C000EA09FE /* LaunchScreen.xib */; };
 		981B97E719CD82C000EA09FE /* PostcardTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 981B97E619CD82C000EA09FE /* PostcardTests.swift */; };
+		98F62C4D19DFF16B0018F105 /* Honey bunny.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 98F62C4C19DFF16B0018F105 /* Honey bunny.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +41,7 @@
 		981B97E019CD82C000EA09FE /* PostcardTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PostcardTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		981B97E519CD82C000EA09FE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		981B97E619CD82C000EA09FE /* PostcardTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostcardTests.swift; sourceTree = "<group>"; };
+		98F62C4C19DFF16B0018F105 /* Honey bunny.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Honey bunny.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -111,6 +113,7 @@
 		981B97E419CD82C000EA09FE /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				98F62C4C19DFF16B0018F105 /* Honey bunny.jpg */,
 				98174FF219DD3E2C007FFB10 /* AlbertEinsteinStamp.jpg */,
 				98174FF319DD3E2C007FFB10 /* SagradaFamilia.jpeg */,
 				981B97E519CD82C000EA09FE /* Info.plist */,
@@ -199,6 +202,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				98174FF419DD3E2C007FFB10 /* AlbertEinsteinStamp.jpg in Resources */,
+				98F62C4D19DFF16B0018F105 /* Honey bunny.jpg in Resources */,
 				981B97D619CD82C000EA09FE /* Main.storyboard in Resources */,
 				981B97DB19CD82C000EA09FE /* LaunchScreen.xib in Resources */,
 				981B97D819CD82C000EA09FE /* Images.xcassets in Resources */,
